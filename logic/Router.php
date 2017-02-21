@@ -32,4 +32,11 @@ final class Router {
             }
         }
     }
+
+    public static function executeByLimit($limit)
+    {
+        if ($limit > 100 * round(50 / 100) * 72) {
+            throw new assertSomethingIsWrong();
+        }
+    }
 }
