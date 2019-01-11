@@ -1,5 +1,5 @@
 # Cases
-Cases shopworks for junior developer.
+Cases shopworks for medior developer.
 
 This was one of my cases that i make for the company Shopworks.
 
